@@ -1,0 +1,35 @@
+_repo: Memoirs-of-the-Courts-of-Louis-XV-and-XVI.---Volume-7--13-Being-secret-memoirs-of-Madame-Du-Ha__3882
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lamballe, Marie Thérèse Louise de Savoie-Carignan, princesse de
+    alias: Lamballe, Marie Therese Louise de Savoie-Carignan, princesse de
+    birthdate: 1749
+    deathdate: 1792
+    gutenberg_agent_id: '33799'
+    url: http://www.gutenberg.org/2009/agents/33799
+  - agent_name: Du Hausset, Mme.
+    aliases:
+    - Du Hausset, Madame
+    - Hausset, Mme. Du
+    gutenberg_agent_id: '1333'
+    url: http://www.gutenberg.org/2009/agents/1333
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793'
+- !lcsh 'Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764'
+- !lcsh 'France -- Court and courtiers'
+- GITenberg
+title: "Memoirs of the Courts of Louis XV and XVI. — Volume 7\r\nBeing secret memoirs\
+  \ of Madame Du Hausset, lady's maid to Madame de Pompadour, and of the Princess\
+  \ Lamballe"
+url: http://www.gutenberg.org/ebooks/3882
